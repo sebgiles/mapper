@@ -1,0 +1,16 @@
+#PLATFORMIO
+
+.pioenvs
+.piolibdeps
+.travis.yml
+
+#VIM
+# swap
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+# session
+Session.vim
+# temporary
+.netrwhist
+#backups
+*un~

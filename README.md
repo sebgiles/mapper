@@ -1,3 +1,6 @@
+# Esperimenti
+Fork personale per divertimento
+
 # Mapper
 Questa repo è dedicata alle attività di laboratorio di automazione condotte da studenti del secondo anno di Ingegneria Informatica
 e dell'Automazione all'Università Politecnica delle Marche, assistiti dal Professor Conte Giuseppe.

@@ -1,6 +1,15 @@
 #!/usr/bin/env python
 
-#c'e ancora da implementare la comunicazione bidirezionale.
+# Per mantenere vive le connessioni:
+# $ python telnet-debugger.py
+#
+# Per disconnetersi dopo 10 secondi di inattività del client
+# $ python telnet-debugger.py 10
+#
+# Per interrompere la connessione dal client attuale premere CTRL+C, il server
+# continuerà ad accettare altri client finchè viene premuto CTRL+C di nuovo.
+
+#TODO: comunicazione bidirezionale.
 #riferirsi a https://docs.python.org/2/library/socket.html
 
 import socket

@@ -1,5 +1,5 @@
 # Esperimenti
-Fork personale per divertimento
+Fork personale for fun
 
 # Mapper
 Questa repo è dedicata alle attività di laboratorio di automazione condotte da studenti del secondo anno di Ingegneria Informatica
